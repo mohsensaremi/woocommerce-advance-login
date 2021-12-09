@@ -1,0 +1,36 @@
+# Copyright (C) 2021 Mohsen Sareminia
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LOGIN MOBILE 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/advance-login\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-27T20:05:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: advance-login\n"
+
+#. Plugin Name of the plugin
+msgid "LOGIN MOBILE"
+msgstr ""
+
+#. Description of the plugin
+msgid "Login and register using mobile sms verification."
+msgstr ""
+
+#. Author of the plugin
+msgid "Mohsen Sareminia"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/mohsensaremi"
+msgstr ""
+
+#: lib/validate_login.php:14
+#: lib/validate_login.php:33
+msgid "Invalid verification code"
+msgstr ""

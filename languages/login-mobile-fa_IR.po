@@ -1,0 +1,37 @@
+# Copyright (C) 2021 Mohsen Sareminia
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LOGIN MOBILE 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/advance-login\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-27T20:05:36+00:00\n"
+"PO-Revision-Date: 2021-05-28 00:52+0430\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: advance-login\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: fa\n"
+
+#. Plugin Name of the plugin
+msgid "LOGIN MOBILE"
+msgstr "ورود با موبایل"
+
+#. Description of the plugin
+msgid "Login and register using mobile sms verification."
+msgstr "ورود و ثبت نام با ارسال کد تایید به موبایل."
+
+#. Author of the plugin
+msgid "Mohsen Sareminia"
+msgstr "Mohsen Sareminia"
+
+#. Author URI of the plugin
+msgid "https://github.com/mohsensaremi"
+msgstr "https://github.com/mohsensaremi"
+
+#: lib/validate_login.php:14 lib/validate_login.php:33
+msgid "Invalid verification code"
+msgstr "کد تایید معتبر نیست"
