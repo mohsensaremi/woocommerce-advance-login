@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name:       ADVANCE MOBILE
+ * Plugin Name:       ADVANCE LOGIN
  * Description:       Login and register using mobile sms verification.
  * Version:           1.0.0
  * Author:            Mohsen Sareminia

@@ -4,6 +4,7 @@ class FarazSms implements ISmsProvider
 {
   public function sendVerificationCode($mobile, $code)
   {
+    global $advance_login_secrets;
     $apiKey = $advance_login_secrets['faraz_sms']['api_key'];
 
     $client = new \IPPanel\Client($apiKey);
